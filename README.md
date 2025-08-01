@@ -83,6 +83,7 @@ This project applies distributed computing and MLOps principles to a real-world 
 
 ## 📂 Repository Structure
 
+```markdown
 notebook/
 └── diabetes_prediction_pipeline.ipynb # Full Spark-based ML pipeline
 
@@ -92,8 +93,7 @@ report/
 
 presentation/
 └── diabetes_prediction_presentation.pptx # Visual presentation deck
-
-
+```
 ---
 
 ## 👩‍💻 Author
